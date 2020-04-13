@@ -1,0 +1,540 @@
+Jon Snow
+Tyrion Lannister
+Daenerys Targaryen
+Sansa Stark
+Arya Stark
+Jaime Lannister
+Samwell Tarly
+Jorah Mormont
+Theon Greyjoy
+Petyr Baelish
+Davos Seaworth
+Eddard Stark
+Brandon Stark
+Brienne of Tarth
+Sandor Clegane
+Varys
+Catelyn Stark
+Tywin Lannister
+Margaery Tyrell
+Robb Stark
+Bronn
+Stannis Baratheon
+Melisandre
+Olenna Tyrell
+Ygritte
+Joffrey Baratheon
+Cersei Lannister
+Shae
+Oberyn Martell
+Asha Greyjoy
+Ron Weasley
+Harry Potter
+Hermione Granger
+Rubeus Hagrid
+Albus Dumbledore
+Minerva McGonagall
+Severus Snape
+Molly Weasley
+Ginny Weasley
+Luna Lovegood
+Draco Malfoy
+Lord Voldemort
+Cho Chang
+Fleur Delacour
+Viktor Krum
+Filius Flitwick
+Horace Slughorn
+George Weasley
+Alastor Moody
+Remus Lupin
+Cornelius Fudge
+Arthur Weasley
+Dolores Umbridge
+Petunia Dursley
+Moaning Myrtle
+Rita Skeeter
+Dobby
+Bellatrix Lestrange
+Nymphadora Tonks
+Sirius Black
+Rachel Green
+Monica Geller
+Phoebe Buffay
+Joey Tribbiani
+Chandler Bing
+Ross Geller
+Michael Scott
+Dwight Schrute
+Jim Halpert
+Pam Beesly
+Ryan Howard
+Andy Bernard
+Stanley Hudson
+Angela Martin
+Jan Levinson
+Kevin Malone
+Meredith Palmer
+Phyllis Lapin
+Kelly Kapoor
+Kelly Erin Hannon
+Robert California
+Josiah Bartlet
+Leo McGarry
+Josh Lyman
+Toby Ziegler
+Sam Seaborn
+C. J. Cregg
+Charlie Young
+Donna Moss
+Abbey Bartlet
+Joey Lucas
+Mr. Darcy
+Elizabeth Bennet
+Mr. William Collins
+George Wickham
+Charles Bingley
+Georgiana Darcy
+Lydia Bennet
+Jane Bennet
+Mrs. Bennet
+Lady Catherine de Bourgh
+Aang
+Zuko
+Katara
+Toph Beifong
+Azula
+Sokka
+Iroh
+Firelord Ozai
+Ty Lee
+Hakoda
+Sayid Jarrah
+Claire Littleton
+Jack Shephard
+Hugo 'Hurley' Reyes
+Shannon Rutherford
+James 'Sawyer' Ford
+Benjamin Linus
+Jin-Soo Kwon
+Michael Dawson
+Desmond Hume
+Sun-Hwa Kwon
+Kate Austen
+Charlie Pace
+John Locke
+Juliet Burke
+Jadzia Dax
+Odo
+Worf
+Nog
+Quark
+Elim Garak
+Bruce Banner
+Captain Marvel
+Benjamin Sisko
+Kira Nerys
+Julian Bashir
+Dukat
+Rom
+Miles O'Brien
+Winn Adami
+Jake Sisko
+Kasidy Yates
+Tony Stark
+Captain America
+Black Widow
+Thor
+Nick Fury
+Dr. Strange
+Thanos
+Black Panther
+Gamora
+Peggy Carter
+Loki
+Hawkeye
+Peter Jason Quill
+Michael Kelso
+Eric Forman
+Jackie Burkhart
+Steven Hyde
+Donna Pinciotti
+Homer Simpson
+Fez
+Kitty Forman
+Red Forman
+Midge Pinciotti
+Bob Pinciotti
+Meredith Grey
+Cristina Yang
+Izzie Stevens
+Alex Karev
+George O'Malley
+Miranda Bailey
+Richard Webber
+Preston Burke
+Derek Shepherd
+Addison Montgomery
+Bart Simpson
+Marge Simpson
+Lisa Simpson
+Apu Nahasapeemapetilon
+Mr. Burns
+Ned Flanders
+Milhouse Van Houten
+Moe Szyslak
+Nelson Muntz
+Krusty the Clown
+Edna Krabappel
+Waylon Smithers
+Barney Gumble
+Principal Skinner
+Luke Skywalker
+Princess Leia
+Han Solo
+Darth Vader
+Hank Schrader
+Obi-Wan Kenobi
+C-3PO
+Walter White
+Skyler White
+Jesse Pinkman
+Marie Schrader
+Flynn White
+Jimmy McGill
+Gus Fring
+Jane Margolis
+Mike Ehrmantraut
+Frodo Baggins
+Aragorn
+Boromir
+Merry Brandybuck
+Samwise Gamgee
+Gandalf
+Gimli
+Legolas
+Pippin Took
+Gollum
+Robert Crawley, 7th Earl of Grantham
+Charlie Carson
+John Bates
+Lady Mary Crawley
+Lady Sybil Crawley
+Lady Edith Crawley
+Sarah O'Brien
+Anna Bates
+Elsie Carson
+William Mason
+Thomas Barrow
+Cora Crawley, Countess of Grantham
+Violet Crawley, Dowager Countess of Grantham
+Daisy Mason
+Beryl Patmore
+Leonard Hofstadter
+Sheldon Cooper
+Penny
+Howard Wolowitz
+Raj Koothrappali
+Bernadette Rostenkowski
+Leslie Winkle
+Amy Farrah Fowler
+Stuart Bloom
+Mary Cooper
+Leslie Knope
+Ann Perkins
+Mark Brendanawicz
+Tom Haverford
+Ron Swanson
+April Ludgate
+Malcolm Reynolds
+River Tam
+Inara Serra
+Kaylee Frye
+Zoe Washburne
+Hoban Washburne
+Jayne Cobb
+Derrial Book
+The Operative
+Rust Cohle
+Simon Tam
+Marty Hart
+Maggie Hart
+Jeff Winger
+Britta Perry
+Abed Nadir
+Troy Barnes
+Annie Edison
+Shirley Bennett
+Pierce Hawthorne
+Craig Pelton
+Ben Chang
+Ian Duncan
+Rick Grimes
+Shane Walsh
+Lori Grimes
+Andrea
+Dale Horvath
+Glenn Rhee
+Carl Grimes
+Daryl Dixon
+Carol Peletier
+Merle Dixon
+Katniss Everdeen
+Peeta Mellark
+Haymitch Abernathy
+Coriolanus Snow
+Effie Trinket
+Gale Hawthorne
+Tyler Durden
+The Narrator
+Marla Singer
+Carrie Bradshaw
+Charlotte York
+Mr. Big
+Miranda Hobbes
+Samantha Jones
+Steve Brady
+Dexter Morgan
+Rita Bennett
+Debra Morgan
+Maria LaGuerta
+James Doakes
+Angel Batista
+Harry Morgan
+Vince Masuka
+Thomas Matthews
+Cedric Daniels
+Joey Quinn
+Jimmy McNulty
+Kima Greggs
+Lester Freamon
+Bunk Moreland
+Thomas 'Herc' Hauk
+Reginald 'Bubbles' Cousins
+Rhonda Pearlman
+Ervin Burrell
+Ellis Carver
+William Rawls
+Roland 'Prez' Pryzbylewski
+Omar Little
+Preston 'Bodie' Broadus
+Russell 'Stringer' Bell
+Alfred Pennyworth
+Tommy Carcetti
+Avon Barksdale
+Chris Partlow
+Norman Wilson
+Michael Lee
+Maurice Levy
+Beatrice 'Beadie' Russell
+Dennis 'Cutty' Wise
+D'Angelo Barksdale
+Clarence Royce
+Clay Davis
+Spiros 'Vondas' Vondopoulos
+Frank Sobotka
+Ziggy Sobotka
+Nick Sobotka
+Dolores Abernathy
+Maeve Millay
+Teddy Flood
+Bernard Lowe
+Ashley Stubbs
+Lee Sizemore
+Elsie Hughes
+Man in Black
+Robert Ford
+Theresa Cullen
+Charlotte Hale
+Akecheta
+Clementine Pennyfeather
+Logan Delos
+Felix Lutz
+Bruce Wayne
+The Joker
+James Gordon
+Rachel Dawes
+Anthony Garcia
+Harvey Dent
+Lucius Fox
+Lau
+Sal Maroni
+Simba
+Nala
+Timon
+Pumbaa
+Scar
+Mufasa
+Rick Blaine
+Victor Laszlo
+William Adama
+Ilsa Lund
+Laura Roslin
+Kara 'Starbuck' Thrace
+Lee 'Apollo' Adama
+Gaius Baltar
+Number Six
+Sharon 'Boomer' Valerii
+Saul Tigh
+Galen Tyrol
+Karl 'Helo' Agathon
+Felix Gaeta
+Anastasia Dualla
+Billy Keikeya
+Cally Henderson
+Daisy Buchanan
+Samuel 'Longshot' Anders
+Don Draper
+Peggy Olson
+Pete Campbell
+Betty Draper
+Joan Holloway
+Salvatore Romano
+Paul Kinsey
+Ken Cosgrove
+Harry Crane
+Rachel Menken
+Roger Sterling
+Bert Cooper
+Henry Francis
+Lane Pryce
+Stan Rizzo
+Dr. Alan Grant
+Buffy Summers
+Xander Harris
+Willow Rosenberg
+Cordelia Chase
+Rupert Giles
+Angel
+Rachel Chu
+Nick Young
+Eleanor Sung-Young
+Goh Peik Lin
+Astrid Leong-Teo
+Colin Khoo
+Dr. Ellie Sattler
+Dr. Ian Malcolm
+John Hammond
+Ray Arnold
+Dennis Nedry
+Jack Sparrow
+Hector Barbossa
+Will Turner
+Elizabeth Swann
+James Norrington
+Sherlock Holmes
+Joshamee Gibbs
+Dr. John Watson
+D.I. Greg Lestrade
+Mrs. Hudson
+Mycroft Holmes
+Molly Hooper
+Richard Hendricks
+Erlich Bachman
+Nelson Bighetti
+Bertram Gilfoyle
+Dinesh Chugtai
+Peter Gregory
+Monica Hall
+Gavin Belson
+Jared Dunn
+Jian-Yang
+Odafin Tutuola
+Melinda Warner
+Dale Cooper
+Olivia Benson
+John Munch
+Elliot Stabler
+Donald Cragen
+Sheriff Truman
+Shelly Johnson
+Bobby Briggs
+Benjamin Horne
+Audrey Horne
+Norma Jennings
+Ed Hurley
+James Hurley
+Pete Martell
+Leland Palmer
+Josie Packard
+Catherine Martell
+Lucy Moran
+Donna Hayward
+Spike Spiegel
+Jet Black
+Faye Valentine
+Ed
+Vicious
+Julia
+Neo
+Morpheus
+Trinity
+Agent Smith
+Cypher
+The Oracle
+Romeo Montague
+Juliet Capulet
+Friar Laurence
+Mercutio
+Benvolio
+Jay Gatsby
+The Nurse
+Nick Carraway
+Tom Buchanan
+Myrtle Wilson
+Jordan Baker
+Fox Mulder
+Dana Scully
+Walter Skinner
+Jack O'Neill
+Daniel Jackson
+Samantha Carter
+Teal'c
+George S. Hammond
+Janet Fraiser
+Cady Heron
+Regina George
+Gretchen Wieners
+Karen Smith
+Janis Ian
+Damian Leigh
+Aaron Samuels
+Ms. Sharon Norbury
+June George
+Betsy Heron
+Seth
+Evan
+Fogell
+Jules
+Becca
+Officer Slater
+Robin Hood
+Maid Marian
+Little John
+Friar Tuck
+Prince John
+Sheriff of Nottingham
+Jo March
+Meg March
+Amy March
+Beth March
+Marmee March
+Theodore Laurence
+Dom Cobb
+Arthur
+Ariadne
+Mal Cobb
+Mr. Saito
+Robert Fischer
+Dallas
+Ellen Ripley
+Lambert
+Ash
+the Alien
+Parker
+Woody
+Buzz Lightyear
+Mr. Potato Head
+Rex
+Bo Peep
+Sid Phillips

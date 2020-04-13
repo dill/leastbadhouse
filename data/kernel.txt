@@ -1,0 +1,22 @@
+Werner Almesberger
+Hans Peter Anvin
+Jens Axboe
+Moshe Bar
+Andries Brouwer
+Rémy Card
+Alan Cox
+Matthew Garrett
+Con Kolivas
+Greg Kroah-Hartman
+Robert Love
+Arnaldo Carvalho de Melo
+David S. Miller
+Ingo Molnár
+Andrew Morton
+Hans Reiser
+Rusty Russell
+Linus Torvalds
+Theodore Ts'o
+Stephen Tweedie
+Harald Welte
+Chris Wright
